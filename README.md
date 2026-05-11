@@ -1,35 +1,57 @@
 # Soar Rise
 
-### 🏆 2024 청강 전국 게임대전 with Unity 대상 (프로그래밍, 청강문화산업대학교 주최)
+### 🏆 Grand Prize Winner — 2024 ChungKang National Game Contest with Unity  
+*(Programming Category, Hosted by ChungKang College of Cultural Industries)*
 
 ---
 
-## 📌 프로젝트 개요
-- **게임 장르**: 아케이드 슈팅 게임
-- **목표**: 주어진 기획서를 바탕으로 기간 내에 게임 개발
-- **특징**: 체계적인 계획을 통해 완성한 대회 프로젝트
+## 📌 Project Overview
+- **Game Genre**: Arcade Shooting Game
+- **Goal**: To develop a complete game within a limited time period based on a given game design document
+- **Feature**: A competition project completed through systematic planning and execution
 
 ---
 
-## 🔑 주요 기술 사항
-- **Unity**: 게임 엔진
-- **C#**: 게임 프로그래밍 언어
-- **3차 베지에 곡선**: 적의 이동 경로 구현
-- **Behavior Tree**: Boss AI 행동 제어 및 확장 가능한 구조 설계
-- **Boids 알고리즘**: 적들의 행동 구현
-- **팩토리 메서드 패턴**: 객체 생성과 관리의 유연성 확보
+## 🔑 Key Technologies
+
+- **Unity**
+  - Game engine used for gameplay implementation and system development
+
+- **C#**
+  - Core programming language used for gameplay programming and architecture design
+
+- **Cubic Bézier Curve**
+  - Implemented enemy movement paths using cubic Bézier curves
+  - Designed smooth and dynamic enemy movement patterns
+
+- **Behavior Tree**
+  - Implemented boss AI behavior control using a Behavior Tree structure
+  - Designed scalable and maintainable AI architecture
+
+- **Boids Algorithm**
+  - Simulated group-based enemy movement behaviors
+  - Implemented flocking-style enemy movement patterns
+
+- **Factory Method Pattern**
+  - Improved flexibility of object creation and management
+  - Designed reusable spawning and generation systems
 
 ---
 
-## 🤔 느낀점과 배운점
-- **개발 시간 부족**: 개인 일정으로 인해 대회 준비가 늦어졌지만, 체계적인 계획 수립과 실행으로 프로젝트를 완성했습니다.
-- **Behavior Tree 공부 및 적용**: FSM의 확장성과 코드 가독성 문제를 해결하기 위해 새로운 기술을 학습하여 사용했습니다.
-- 구현 난이도가 높았지만, **확장성과 가독성** 면에서 큰 발전을 이룰 수 있었습니다.
-- **집중력과 시간 관리의 중요성**: 제한된 시간 속에서도 **최상의 결과물**을 만들기 위해 노력하며 성장하였습니다.
+## 🤔 What I Learned
+
+- Due to personal scheduling issues, preparation for the competition started later than planned.
+  However, through systematic planning and execution, the project was successfully completed within the deadline.
+
+- To solve scalability and readability issues found in FSM-based AI systems, I studied and applied Behavior Trees.
+
+- Although the implementation process was technically challenging, it significantly improved the scalability and readability of the project architecture.
+
+- Through this project, I learned the importance of focus, time management, and efficient planning in creating the best possible result under limited time constraints.
 
 ---
 
-## 🚨 리포지토리 안내
-- **이 프로젝트의 코드와 자료는 대회 규정에 따라 공개할 수 없습니다.**
+## 🚨 Repository Notice
+- The source code and project resources for this project cannot be 공개 due to competition regulations.
 
 ---
